@@ -1,1 +1,2 @@
-console.log("Welcome to my CV!");
+console.log("Welcome to my CV");
+ 
